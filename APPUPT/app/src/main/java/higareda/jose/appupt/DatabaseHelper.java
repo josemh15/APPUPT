@@ -14,7 +14,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 
     @Override
     public void onCreate(SQLiteDatabase db) {
-        // Aquí pegas el comando CREATE TABLE de tu archivo, pero simplificado para SQLite
+        
         String CREATE_TABLE = "CREATE TABLE registros (" +
                 "curp TEXT PRIMARY KEY," +
                 "nombre TEXT," +
