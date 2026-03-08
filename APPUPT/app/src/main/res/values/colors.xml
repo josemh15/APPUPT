@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="naranja_upt">#F57C00</color>
+    <color name="verde_upt">#1B5E20</color>
+    <color name="gris_fondo">#F2F2F2</color>
+
+    <color name="guinda">#6A1B1A</color>
+    <color name="guinda_dark">#4E0F0F</color>
+    <color name="verde">#1B5E20</color>
+
+    <color name="blanco">#FFFFFF</color>
+    <color name="gris_claro">#F5F5F5</color>
+    <color name="gris_texto">#616161</color>
 </resources>

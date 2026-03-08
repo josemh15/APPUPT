@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "APPUPT"
+rootProject.name = "CREDENCIALES"
 include(":app")
  
